@@ -159,7 +159,7 @@ Canvas.prototype = {
         me.$elem.append(
 
             $('<header/>').append(
-                $('<h3/>', { 'class': 'title', 'text': 'Ваше граффити на  стену Mr Jesus' })
+                $('<h3/>', { 'class': 'title', 'text': 'Специально для Свята' })
             ),
 
             $('<div/>', { 'class': 'topbar' }).append(
